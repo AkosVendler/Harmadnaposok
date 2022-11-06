@@ -10,6 +10,7 @@ body{
 	box-sizing: border-box;
 }
 .container{
+	 z-index: -1;
 	max-width: 1170px;
 	margin:auto;
 }
