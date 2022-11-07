@@ -1,3 +1,40 @@
+h1 {
+    padding-top: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 60px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    margin: 10px 50px;
+}
+
+
+.gallery img {
+    width: 530px;
+    margin: auto;
+    padding: 5px;
+}
+
+@media (max-width: 767px) {
+
+    .gallery img {
+        width: 99%;
+    }
+
+    .gallery {
+        justify-content: center;
+        align-items: center;
+        margin: 2px;
+    }
+}
+
+
 /* Footer */
 
 body{
