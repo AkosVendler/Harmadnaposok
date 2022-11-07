@@ -19,12 +19,12 @@
     padding-top: 6px;
     list-style-type: none;
   }
-  a {
+  #a {
     font-size: larger;
     color: white;
     text-decoration: none;
   }
-  a:hover {
+  #a:hover {
     text-decoration: none;
     color: #C5C8C8;
 
