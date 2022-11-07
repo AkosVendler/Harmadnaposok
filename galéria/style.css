@@ -6,6 +6,7 @@ h1 {
 }
 
 .gallery {
+	height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,6 +29,7 @@ h1 {
     }
 
     .gallery {
+	height: 1000px;
         justify-content: center;
         align-items: center;
         margin: 2px;
