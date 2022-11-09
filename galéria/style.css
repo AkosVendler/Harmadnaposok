@@ -6,6 +6,7 @@ h1 {
 }
 
 .gallery {
+	padding-bottom: 200px;
 	height: 600px;
     display: flex;
     justify-content: center;
