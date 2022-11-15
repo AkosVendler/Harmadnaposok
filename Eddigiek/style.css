@@ -172,6 +172,10 @@ ul{
 
 /*responsive*/
 @media(max-width: 767px){
+.container1 {
+	padding-left: 0px;
+	}	
+	
   .footer-col{
     width: 50%;
     margin-bottom: 30px;
